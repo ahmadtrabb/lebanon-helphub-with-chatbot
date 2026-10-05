@@ -106,11 +106,16 @@ MIS Student | Web Development Enthusiast
 GitHub: https://github.com/ahmadtrabb
 📸
  Project Screenshots
-Screen 1
-Screen 2
-Screen 3
-Screen 4
-Screen 5
+### Screen 1
+![screen1](./public/screenshots/screen%201.png)
+### Screen 2
+![screen2](./public/screenshots/screen2.png)
+### Screen 3 
+![screen3](./public/screenshots/screen3.png)
+### Screen 4
+![screen 4](./public/screenshots/screen4.png)
+### Screen 5
+![screen 5](./public/screenshots/screen5.png)
 ───
 ⭐
  If you find this project useful, feel free to 
